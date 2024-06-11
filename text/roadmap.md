@@ -25,7 +25,7 @@
 	* Python [personal recommendation]
 	* Java [general recommendation]
 	* Scala
-	* Go
+	* Go [higher performance]
 
 *Note: Learn how to write clean, extensibile code. Spend some time understanding programming paradigms (functional vs. OOP) and best practices (design patterns, YAGNI, stateful vs stateless applications). Get familiar with an IDE or code editor like VSCode.*
 
@@ -93,6 +93,17 @@
 		* Amazon EMR
 		* Google Dataproc
 		* Azure Data Lake
+
+* Data analysis
+	* Pandas
+	* NumPy
+	* Matlab
+	* Scikit Learn
+
+* Data visualization
+	* Matplotlib
+	* Seaborn
+	* Plotly
 
 *Note: Most modern data processing frameworks are based on Apache Hadoop and MapReduce to some extent. Understanding these concepts can help you learn modern data processing frameworks much quicker.*
 
