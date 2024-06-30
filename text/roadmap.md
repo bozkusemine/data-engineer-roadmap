@@ -24,8 +24,10 @@
 * Learn a programming language
 	* Python [personal recommendation]
 	* Java [general recommendation]
+	* R
 	* Scala
 	* Go
+ 	* MATLAB
 
 *Note: Learn how to write clean, extensibile code. Spend some time understanding programming paradigms (functional vs. OOP) and best practices (design patterns, YAGNI, stateful vs stateless applications). Get familiar with an IDE or code editor like VSCode.*
 
